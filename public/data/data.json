@@ -1,0 +1,32 @@
+{
+	"people": [
+		{
+			"name": "Kanye West",
+			"date": "1 month ago",
+			"category": "Entertainment",
+			"blurb": "Lorem ipsum",
+			"photo": "http://thesource.com/wp-content/uploads/2016/08/kanye-west2.jpg"
+		},
+		{
+			"name": "Mark Zuckerberg",
+			"date": "1 month ago",
+			"category": "Technology",
+			"blurb": "Lorem ipsum",
+			"photo": "url"
+		},
+		{
+			"name": "Cristina Fernandez de Kirchner",
+			"date": "1 month ago",
+			"category": "Politics",
+			"blurb": "Lorem ipsum",
+			"photo": "url"
+		},
+		{
+			"name": "Malala Yousafzai",
+			"date": "1 month ago",
+			"category": "Politics",
+			"blurb": "Lorem ipsum",
+			"photo": "url"
+		}
+	]
+}
