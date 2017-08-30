@@ -74,8 +74,6 @@ function voteCalc(e){
 		noBar.style.width = (downVotes/totalVotes) * 100+"%";
 		yesBar.style.width = 100 -((downVotes/totalVotes) * 100)+"%";
 	}
-
-	console.log(totalVotes, upVotes, downVotes)
 }
 
 
