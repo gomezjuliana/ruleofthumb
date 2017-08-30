@@ -1,0 +1,17 @@
+.counter {
+	height: 20px;
+	width: 300px;
+	display: inline-flex;
+}
+
+.yes {
+	background-color: green;
+	width: 50%;
+	height: 20px;
+}
+
+.no {
+	background-color: red;
+	width: 50%;
+	height: 20px;
+}
