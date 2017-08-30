@@ -24,5 +24,26 @@ function createCards(data){
 		const blurbText = document.createTextNode(data.people[x].blurb);
 		blurb.appendChild(blurbText);
 		containerDiv.appendChild(blurb);
+
+		const vote = createVotingButtons();
+		containerDiv.appendChild(vote)
 	}
+}
+
+function createVotingButtons() {
+	const div = document.createElement('div');
+
+	const upVote = document.createElement('img');
+	upVote.src = "https://d30y9cdsu7xlg0.cloudfront.net/png/100266-200.png";
+	div.appendChild(upVote);
+
+	const downVote = document.createElement('img');
+	downVote.src= "https://d30y9cdsu7xlg0.cloudfront.net/png/70800-200.png";
+	div.appendChild(downVote);
+
+	const button = document.createElement('button');
+	const label = document.createTextNode('Vote Now');
+	button.appendChild(label);
+	div.appendChild(button);
+	return div;
 }
