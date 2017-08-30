@@ -5,28 +5,28 @@
 			"date": "1 month ago",
 			"category": "Entertainment",
 			"blurb": "Lorem ipsum",
-			"photo": "http://thesource.com/wp-content/uploads/2016/08/kanye-west2.jpg"
+			"photo": "http://imd.ulximg.com/image/src/cover/1382462687_66e9717f6ad3291c5607965c177c5fc1.jpg"
 		},
 		{
 			"name": "Mark Zuckerberg",
 			"date": "1 month ago",
 			"category": "Technology",
 			"blurb": "Lorem ipsum",
-			"photo": "url"
+			"photo": "https://www.civilized.life/assets/Uploads/_resampled/CroppedFocusedImageWzk2Miw2MDAsIngiLDQxOV0/z1415038363.jpg"
 		},
 		{
 			"name": "Cristina Fernandez de Kirchner",
 			"date": "1 month ago",
 			"category": "Politics",
 			"blurb": "Lorem ipsum",
-			"photo": "url"
+			"photo": "http://4pelagatos.com/wp-content/uploads/2016/09/cristina-kirchner.png"
 		},
 		{
 			"name": "Malala Yousafzai",
 			"date": "1 month ago",
 			"category": "Politics",
 			"blurb": "Lorem ipsum",
-			"photo": "url"
+			"photo": "http://ventureosity.com/wp-content/uploads/2014/10/malala-yousafzai-ftr.jpg"
 		}
 	]
 }
