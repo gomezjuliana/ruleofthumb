@@ -1,3 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+  font-family: 'Lato', sans-serif;
+}
+
+/*Header*/
+.header {
+  background-image: url('https://cmmb.org/wp-content/uploads/2016/06/o-POPE-FRANCIS-facebook.jpg');
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  height: 90vh;
+  background-position: 345px;
+}
+
+.nav__list,
+.header__search {
+  display: inline-block;
+}
+
+
+
 .counter {
 	height: 20px;
 	width: 300px;
