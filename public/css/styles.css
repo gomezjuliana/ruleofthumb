@@ -86,16 +86,18 @@
   vertical-align: -0.25em;
 }
 
-#yes + span::before {
+input[id^="yes"] + span::before {
 	background-image: url('https://d30y9cdsu7xlg0.cloudfront.net/png/100266-200.png');
 	background-size: cover;
+  margin: 2px;
 }
 
-#no + span::before {
+input[id^="no"] + span::before {
 	background-image: url('https://d30y9cdsu7xlg0.cloudfront.net/png/70800-200.png');
   background-size: cover;
+  margin: 2px;
 }
 
 [type="radio"]:checked + span::before {
-  box-shadow: 0 0 0 0.25em #000;
+  box-shadow: 0 0 0 0.25em #fff;
 }
