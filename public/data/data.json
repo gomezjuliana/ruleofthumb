@@ -4,28 +4,28 @@
 			"name": "Kanye West",
 			"date": "1 month ago",
 			"category": "Entertainment",
-			"blurb": "Lorem ipsum",
+			"blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
 			"photo": "http://imd.ulximg.com/image/src/cover/1382462687_66e9717f6ad3291c5607965c177c5fc1.jpg"
 		},
 		{
 			"name": "Mark Zuckerberg",
 			"date": "1 month ago",
 			"category": "Technology",
-			"blurb": "Lorem ipsum",
-			"photo": "https://www.civilized.life/assets/Uploads/_resampled/CroppedFocusedImageWzk2Miw2MDAsIngiLDQxOV0/z1415038363.jpg"
+			"blurb": "ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu ",
+			"photo": "https://www.kippel01.com/files//fotos/002perfiles/zuckerberg%20facebook.jpg"
 		},
 		{
 			"name": "Cristina Fernandez de Kirchner",
 			"date": "1 month ago",
 			"category": "Politics",
-			"blurb": "Lorem ipsum",
+			"blurb": "et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit a",
 			"photo": "http://4pelagatos.com/wp-content/uploads/2016/09/cristina-kirchner.png"
 		},
 		{
 			"name": "Malala Yousafzai",
 			"date": "1 month ago",
 			"category": "Politics",
-			"blurb": "Lorem ipsum",
+			"blurb": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid",
 			"photo": "http://ventureosity.com/wp-content/uploads/2014/10/malala-yousafzai-ftr.jpg"
 		}
 	]

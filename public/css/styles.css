@@ -15,27 +15,55 @@
   background-position: 345px;
 }
 
-.nav__list,
-.header__search {
-  display: inline-block;
+.nav {
+  padding-top: 20px;
 }
 
+.nav__link {
+  display: inline;
+  margin: 2px 3px;
+}
 
+.header__search {
+  display: none;
+}
+
+.example{
+  background-color: rgba(0,0,0,0.5);
+  margin: 250px auto 20px;
+  width: 80%;
+}
+
+.containerDiv {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  height: 300px;
+  background-size: cover;
+  position: relative;
+}
+
+.contentDiv {
+  position: absolute;
+  bottom: -3px;
+  width: 100%;
+  background-color: rgba(250, 250, 250, 0.5);
+}
 
 .counter {
 	height: 20px;
-	width: 300px;
+	width: 100%;
 	display: inline-flex;
 }
 
 .yes {
-	background-color: green;
+	background-color: #2ECC40;
 	width: 50%;
 	height: 20px;
 }
 
 .no {
-	background-color: red;
+	background-color: #FF4136;
 	width: 50%;
 	height: 20px;
 }
